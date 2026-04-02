@@ -1,16 +1,30 @@
-# React + Vite
+# 👟 Shoe Brand Landing Page - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page built using React.js for a shoe brand. This project focuses on UI design, component structure, and clean layout implementation.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🖥️ Clean and modern UI design
+- 📱 Responsive layout
+- 🧩 Reusable React components (Navbar & Hero Section)
+- 🎯 Call-to-action buttons (Shop Now, Category)
+- 🛒 Brand integration section (Amazon, Flipkart)
+- 🧭 Navigation bar with menu options
 
-## React Compiler
+## 🧠 Concepts Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project helped me understand:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React Functional Components
+- Component Reusability
+- JSX Structure
+- Props (basic usage)
+- Layout Design using CSS
+- Flexbox for alignment
+- Image handling in React
+  
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6)
+- HTML5
+- css 
